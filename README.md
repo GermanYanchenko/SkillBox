@@ -1,5 +1,4 @@
-# SkillBox
-## 2. Computer Vision <br>
+## 2. SkillBox <br>
 ### 2.1 Бинарный классификатор <br>
 https://github.com/GermanYanchenko/ImageClass_binary <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/IC_history.png?raw=true)<br>
