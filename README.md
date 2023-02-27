@@ -23,3 +23,4 @@ https://github.com/GermanYanchenko/VGGFace <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_hist2.png?raw=true)<br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_hist3.png?raw=true)<br>
 Предсказание модели для тестового датасета: <br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_predict.png?raw=true)<br>
